@@ -4,7 +4,7 @@
 This repository contains a Python script for predicting the severity of forest fires using machine learning models. The goal of this project is to demonstrate how different classification algorithms can be used to predict the severity of forest fires based on various environmental factors.
 
 ## Table of Contents
-- [Dataset Attribution](#dataset attribution)
+- [Dataset Credits](#dataset-credits)
 - [Description](#description)
 - [Dataset](#dataset)
 - [Preprocessing](#preprocessing)
@@ -12,9 +12,9 @@ This repository contains a Python script for predicting the severity of forest f
 - [Evaluation](#evaluation)
 - [Usage](#usage)
 - [License](#license)
-## Description
+## Dataset Credits
 
-**Credits:** Dataset provided by [NishmaNayana](https://github.com/NishmaNayana)).
+**Credits:** Dataset provided by ([NishmaNayana](https://github.com/NishmaNayana)).
 
 ## Description
 
